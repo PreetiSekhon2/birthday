@@ -1,0 +1,59 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/preetiudas/projects/birthdayproj/spec/features/accepts_dob_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/preetiudas/projects/birthdayproj/spec/features/greet_birthday_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/preetiudas/projects/birthdayproj/spec/person_spec.rb": [
+        1,
+        null,
+        1,
+        5,
+        4,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1539860999
+  }
+}
